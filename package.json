@@ -1,0 +1,24 @@
+{
+  "name": "week-12-project",
+  "version": "1.0.0",
+  "description": "\"# Week-12\"",
+  "main": "week-12.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SethMcGregor9/Week-12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SethMcGregor9/Week-12/issues"
+  },
+  "homepage": "https://github.com/SethMcGregor9/Week-12#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "jquerry": "^0.0.1-security",
+    "jquery": "^3.6.1"
+  }
+}
